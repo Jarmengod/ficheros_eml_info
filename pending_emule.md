@@ -2,7 +2,7 @@
 
 rev date:_ 180329
 
-[ir a la pagina principal][pagina principal] 
+[ir a la pagina principal](Listado_de_documentos.html)
 
 fichero en C:\compartido\ficheros_emule_info\pending_emule_2.md
 
@@ -26,9 +26,9 @@ fichero en C:\compartido\ficheros_emule_info\pending_emule_2.md
 
 - [ ] Andrea Camilleri                  La piramide de fango
 
-- [ ] Elisabet Benavent		Este Cuaderno es para mil
+	 [ ] Elisabet Benavent		Este Cuaderno es para mil
 
-- [ ] S. S. Van Dine 	                 El caso del asesinato de Benson, de la canario
+	 [ ] S. S. Van Dine 	                 El caso del asesinato de Benson, de la canario
 
 - [ ] Vladimir Hernandez              Habana requien y mas libros
 
@@ -55,10 +55,9 @@ fichero en C:\compartido\ficheros_emule_info\pending_emule_2.md
 - [ ] Charles Dickens
 
 
+[ir a la pagina principal](Listado_de_documentos.html)
 
-[ir a la pagina principal][pagina principal] 
+__________________
 
-------
-
-[pagina principal]: Listado_de_documentos.html
+[]: 
 

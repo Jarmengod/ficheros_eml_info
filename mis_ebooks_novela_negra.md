@@ -26,27 +26,27 @@ Listado general de la biblioteca
 
 - conan_doyle_arthur....................Sherlock Holmes  
 
--  chesterton_g_k............................Padre Brown
+- chesterton_g_k............................Padre Brown
 
   ​			[arriba ](#header-n0)
 
-#### Modernos
+  #### Modernos
 
-- james_p_d..........................inspector Adam Dalgliesh  
+  - james_p_d..........................inspector Adam Dalgliesh  
 
-- cornwell_patricia...............forense Kay Scarpetta
+  - cornwell_patricia...............forense Kay Scarpetta
 
-- mcdermid_val....................Lindsay gordon
+  - mcdermid_val....................Lindsay gordon
 
-- pastor_ben ........................Martin Bora
+  - pastor_ben ........................Martin Bora
 
-- penny_louise......................inspector Jefe Armand Gamache
+  - penny_louise......................inspector Jefe Armand Gamache
 
-- pizzolatto_nic......................True detective
+  - pizzolatto_nic......................True detective
 
-- fernandez_diaz_jorge      
+  - fernandez_diaz_jorge      
 
-  ​				[arriba ](#header-n0)
+  	​			[arriba ](#header-n0)
 
 ## Negra
 
@@ -55,17 +55,17 @@ Listado general de la biblioteca
 - hammet_dashiell................Sam Spade
 - chandler_raymond.............Phillip Marlowe
 
-### Anglosajones
+  ### Anglosajones
 
-- thompson_jim
+  - thompson_jim
 
-- highsmith_patricia............Tom Ripley
+  - highsmith_patricia............Tom Ripley
 
-- himes_chester.....................afroamericano.... Sepulturero y Ataud
+  - himes_chester.....................afroamericano.... Sepulturero y Ataud
 
-- macdonald_ross.................Lew Archer
+  - macdonald_ross.................Lew Archer
 
-  ​			[arriba ](#header-n0)
+  				[arriba ](#header-n0)
 
   #### modernos
 
@@ -95,9 +95,9 @@ Listado general de la biblioteca
 
 ### Europeos
 
-#### 	España
+#### 		España
 
-- ​	del_arbol_victor
+  - ​del_arbol_victor
 
   - garcia_pavon..................Francisco Plinio  
 
@@ -127,9 +127,9 @@ Listado general de la biblioteca
 
     ​			[arriba ](#header-n0)
 
-#### Nordicos  
+  #### Nordicos  
 
-- ​	indridason_arnaldur............Inspector islandes Erlendur Sveinsson
+  - ​indridason_arnaldur............Inspector islandes Erlendur Sveinsson
 
   - lackberg_camila
 
@@ -143,44 +143,56 @@ Listado general de la biblioteca
 
     ​			[arriba ](#header-n0)
 
-#### Franceses
+  #### Franceses
 
-- ​	lemaitre_pierre
+- lemaitre_pierre
+
+
   - izzo_jean_claude.....................Favio Montale
   - vargas_fred
 
-#### Italianos
+  #### Italianos
 
-- camilleri_andrea.....................Montalbano
+  - camilleri_andrea.....................Montalbano
 
-- leon_donna.............................Brunetti
+  - leon_donna.............................Brunetti
 
-- manzini_antonio .....................Rocco Schiavone
+  - manzini_antonio .....................Rocco Schiavone
 
-- sciascia_leonardo
+  - sciascia_leonardo
 
   ​		[arriba ](#header-n0)
 
-#### Otros europeos
+  #### Otros europeos
 
-- markaris_petros.......................Jaritos
-- simenon_george
+  - markaris_petros.......................Jaritos
+  - simenon_george
 
 ### Hispanoamericanos
 
-#### Argentinos
+#### 	Argentinos
 
-- fernandez_diaz_jorge 
+     - Jorge fernandez diaz
+
+#### Uruguayo - cubano
+
+- Daniel Chavarría 
 
 ### Asia
 
-- xiaolong_qiu ..........china
+- xiaolong_qiu .......................china
 
 - seicho_matsumoto.............japon
+
+- Natsuo Kirino......................japon
+
+- Seishi Yokomizo.................japon
 
   ​			[arriba ](#header-n0)
 
 ## Thriller
+
+
 
 - child_lee....................jack_reacher 
 

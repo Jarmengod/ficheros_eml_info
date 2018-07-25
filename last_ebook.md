@@ -77,6 +77,32 @@ Fichero en C:\compartido\ficheros_emule_info\last_ebook.md
 
   ​		[arriba ](#header-n0)
 
+#### 180505
+
+- Manuel Rivas........................El lapiz del carpintero , (+11)
+
+- Jorge Volpi.............................Una novela criminal  (+7)
+
+- Qiu Xiaolong.........................El dragon de Shanghai
+
+- Maria Dueñas........................Las hijas del Capitán (+3)
+
+- Lisa Gardner..........................Tocado y hundido
+
+- Jorge Eduardo Benavides......El Enigma del Convento (+1)
+
+- Natsuo Kirino.........................Out (+3)
+
+- Silva, Daniel..............................Casa de espías
+
+- J.D. Salinger..............................El guardian entre el centeno
+
+- A.J. Finn.....................................La mujer en la ventana
+
+- Daniel Chavarría...................... Adiós muchachos
+
+  ​		[arriba ](#header-n0)
+
 
 [ir pagina principal](Listado_de_documentos.html)
 
