@@ -4,7 +4,7 @@ Basicamente un listado de autores de mi biblioteca de epub
 
 Fichero en C:\compartido\ficheros_emule_info\mis_ebook_novela_negra.md
 
-*last rev: 180329*
+*last rev: 180725
 
 [ir pagina principal](Listado_de_documentos.html)
 
@@ -12,7 +12,7 @@ Fichero en C:\compartido\ficheros_emule_info\mis_ebook_novela_negra.md
 
 [TOC]
 
-
+[arriba ](#header-n0)
 
 -------------------
 Listado general de la biblioteca
@@ -27,6 +27,8 @@ Listado general de la biblioteca
 - conan_doyle_arthur....................Sherlock Holmes  
 
 - chesterton_g_k............................Padre Brown
+
+- van_dine_s_s ...............................Philo Vance
 
   ​			[arriba ](#header-n0)
 
@@ -46,14 +48,23 @@ Listado general de la biblioteca
 
   - fernandez_diaz_jorge      
 
-  	​			[arriba ](#header-n0)
+    
+
+    [arriba ](#header-n0)
+
+    
 
 ## Negra
 
 ### Creadores del genero
 
 - hammet_dashiell................Sam Spade
+
 - chandler_raymond.............Phillip Marlowe
+
+- carroll_john_daly.................Race Williams   (sin ebbok)
+
+- cain_james-c ........................cartero llama dos veces
 
   ### Anglosajones
 
@@ -65,13 +76,18 @@ Listado general de la biblioteca
 
   - macdonald_ross.................Lew Archer
 
-  				[arriba ](#header-n0)
+  - mccoy_horace
+
+       [arriba ](#header-n0)
+
 
   #### modernos
 
   - connelly_michael..............Harry Bosch
 
   - ellroy_james ......................L.A. Confidential
+
+  - grafton_sue........................abecedario, Kinsey Millhone 
 
   - kerr_philip..........................Alemania nazi
 
@@ -85,71 +101,81 @@ Listado general de la biblioteca
 
   - connolly_john...................Charlie Parker
 
-  - lehane_dennis
+  - lehane_dennis..................Kenzie & Gennaro  Mistic River
 
   - winslow_don
 
   - wilson_robert...................Falcon
 
-    ​				[arriba ](#header-n0)
+    ​			
+
+    [arriba ](#header-n0)
+
+    
 
 ### Europeos
 
 #### 		España
 
-  - ​del_arbol_victor
+  - del_arbol_victor
 
-  - garcia_pavon..................Francisco Plinio  
+  - garcia_pavon...............................Francisco Plinio
+
+  - garcia_saenz_eva.........................vitoria  Unai Lopez Kraken
 
   - gimenez_bartlett_alicia .............Petra delicada 
 
-  - gonzalez_ledesma_francisco 
+  - gonzalez_ledesma_francisco.....Mendez
+
+  - hill_toni........................................Hector Salgado
 
   - madrid_juan................................Toni Romano
 
   - martin_andreu............................Flanagan
 
-  - martinez_reverte_jorge
+  - martinez_reverte_jorge..............Galvez
 
-  - mendoza_eduardo
+  - mendoza_eduardo....................detective anonimo
 
-  - MVM
+  - MVM............................................Carvalho
 
-  - ravelo_alexis
+  - ravelo_alexis...............................Eladio Monroy
 
-  - redondo_dolores...............trilogia de Bazan
+  - redondo_dolores.......................trilogia de Bazan   Amaia Salazar
 
-  - ribas_rosa
+  - ribas_rosa...................................Ana Marti / Cornelia Weber-Tejedor
 
   - silva_lorenzo...................Guardia civiles Belilacqua y Chamorro 
 
   - zanon_carlos
 
-    ​			[arriba ](#header-n0)
+    ​			
+
+    [arriba ](#header-n0)
+
+    
 
   #### Nordicos  
 
-  - ​indridason_arnaldur............Inspector islandes Erlendur Sveinsson
+- indridason_arnaldur............Inspector islandes Erlendur Sveinsson
+- lackberg_camila....................Erica Falck y Patrik Hedstrom
+- larsson_asa...........................abogada Rebecka Martisson
+- mankell_henning..................Kurt Wallander
+- nesbo_jo..................................Harry Hole
+- sjowall_wahloo........................Martin  Beck
+- theorin_johan..........................Oland pueblo
 
-  - lackberg_camila
-
-  - larsson_asa...........................abogada Rebecka Martisson
-
-  - mankell_henning..................Kurt Wallander
-
-  - nesbo_jo
-
-  - sjowall_wahloo........................Martin  Beck
-
-    ​			[arriba ](#header-n0)
+				[arriba ](#header-n0)
 
   #### Franceses
 
-- lemaitre_pierre
+- lemaitre_pierre........................Verhoeven
 
 
   - izzo_jean_claude.....................Favio Montale
-  - vargas_fred
+  - vargas_fred.............................Adamsberg...los tres evangelistas
+  - minier_bernard.......................comandante Servaz
+  - pennac_daniel .......................familia Malaussene
 
   #### Italianos
 
@@ -161,18 +187,39 @@ Listado general de la biblioteca
 
   - sciascia_leonardo
 
-  ​		[arriba ](#header-n0)
+  ​		
+
+  [arriba ](#header-n0)
+
+  
+
+#### nueva_literatura_negra_italiana
+
+- vichi_marco....................comisario Bordelli  
+- dazieri_sandrone  
+- zilahy_mirko...................Enrico Mancini
+
+			
 
   #### Otros europeos
 
   - markaris_petros.......................Jaritos
   - simenon_george
+  - french_tana.........................irlandesa
+
+[arriba ](#header-n0)
+
+
 
 ### Hispanoamericanos
 
-#### 	Argentinos
+#### Argentinos
 
-     - Jorge fernandez diaz
+
+
+#### Cubanos
+
+- padura_leonardo............Mario Conde
 
 #### Uruguayo - cubano
 
@@ -188,13 +235,16 @@ Listado general de la biblioteca
 
 - Seishi Yokomizo.................japon
 
-  ​			[arriba ](#header-n0)
+  ​			
+
+  [arriba ](#header-n0)
+
+  
 
 ## Thriller
 
-
-
 - child_lee....................jack_reacher 
+- katzenbach_john.....thriller judicial 
 
 ## Espias
 
@@ -202,7 +252,11 @@ Listado general de la biblioteca
 
 - silva_daniel....................Espias ingleses 
 
-  ​			[arriba ](#header-n0)
+  ​			
+
+  [arriba ](#header-n0)
+
+  
 
   ------
 
@@ -214,51 +268,23 @@ Listado general de la biblioteca
   - [Blog Elemental](https://elpais.com/agr/elemental/a)
   - [Blog mis detectives favorit@s](https://detectivesdelibro.blogspot.com/)
 
+  
+
+  [arriba ](#header-n0)
+
+  
+
   ------
 
   ​
 
 # revisar e incluir
 
-french_tana  
-pennac_daniel  
-luengo_lorenzo  
-katzenbach_john         thriller judicial 
 
-Pending
 
-carroll john daly............creador
-cornell wooldrich
-James C. Cain........El cartero siempre llama dos veces
 
-Andres Trapiello
 
-Frederic Dard
-Boris Vian o Vernon Sullivan
-
-​				[arriba ](#header-n0)
-
-#### nueva_literatura_negra_italiana
-
-vichi_marco  
-dazieri_sandrone  
-zilahy_mirko
-
-​		[arriba ](#header-n0)
-
-#### librotea
-
-Fuente https://librotea.elpais.com/inspiradores/claudia-pineiro/estanteria/10-libros-que-te-haran-amar-el-genero-negro  
-10 recomendaciones de Claudia Piñero  
-a revisr e inclur  
-saer_juan_jose  
-puig_manuel  
-spark_muriel  
-claudel_phillipe  
-theorin_johan  
-mccoy_horace  
-
-​	[arriba ](#header-n0)
+[arriba ](#header-n0)
 
 ​	  	
 

@@ -4,7 +4,7 @@
 
 Fichero en C:\compartido\ficheros_emule_info\last_ebook.md
 
-*last rev: 180329*
+*last rev: 180724
 
 [ir pagina principal](Listado_de_documentos.html)
 
@@ -17,8 +17,6 @@ Fichero en C:\compartido\ficheros_emule_info\last_ebook.md
 
 
 ####  180127
-
-
 
 - Marta Sanz............................Clavicula    peticion de carmen
 
@@ -52,7 +50,9 @@ Fichero en C:\compartido\ficheros_emule_info\last_ebook.md
 
 - Arturo Perez Reverte..........Eva
 
-  ​				[arriba ](#header-n0)
+  
+
+  [Inicio ](#header-n0)
 
 #### 180214
 - James Ellroy...........................Mis rincones oscuros
@@ -75,7 +75,9 @@ Fichero en C:\compartido\ficheros_emule_info\last_ebook.md
 
 - Alejandro dumas
 
-  ​		[arriba ](#header-n0)
+  
+
+  [Inicio ](#header-n0)
 
 #### 180505
 
@@ -101,12 +103,41 @@ Fichero en C:\compartido\ficheros_emule_info\last_ebook.md
 
 - Daniel Chavarría...................... Adiós muchachos
 
-  ​		[arriba ](#header-n0)
+  
+
+  [Inicio ](#header-n0)
+
+  
+
+#### 180724
+
+- Carlos Sisi............................La hora del mar, (+9)
+- Andrea Camilleri.................La piramide de fango
+- Michael Connelly.................Los dioses de la culpa
+- Ingrid Desjours....................Juegos de apariencia (+2)
+- Bernardo Esquinca.............Carne de Ataud (+2)
+- Jeffrey eugenides.................Las virgenes suicidas (+2)
+- Enric Gonzalez.....................Historias del calcio (+7)
+- Sue Grafton.........................E de Evidencia (+5)
+- Patricia Higsmith................ Las dos caras de enero
+- Jorge Molist..........................Cancion de sangre y oro (+5)
+- John Verdon.........................No confies en Peter Pan (+4)
+- Lorenzo Silva........................Lejos del corazon    (beliacqua)
+- Eric Vuillard..........................El orden del dia    (premio goncourt)
+- Juan Eduardo Zuñiga...........Largo noviemgre de madrid   (guerra civil)
+- Toni Hill.................................Tigres de papel    (novela negra de cornella)
+- Jordi Baste...........................Un home cau
+- Joel Dicker...........................La desaparicion de Stephanie Mailer
+- John D. B. ............................Infiltrada  (triller en Corea del norte)
+- Philip Kerr ............................Azul de Prusia
+- Carmen Mola .......................La novia gitana (policiaca, "anonima" sensacion temp.)
+- Jo Nesbo................................Macbeth
+- Bernrd Minier......................No apagues la luz   (policiaca francesa capitan servaz)
+- Daniel Pennac......................Los frutos de la pasion (+3)
+- Arte.......................................varios libros de historia del arte 
 
 
 [ir pagina principal](Listado_de_documentos.html)
 
 ------
-
-[]: 
 

@@ -1,6 +1,6 @@
 # Lista de objetos pendientes de emule
 
-rev date:_ 180329
+rev date:_ 180724
 
 [ir a la pagina principal](Listado_de_documentos.html)
 
@@ -12,9 +12,8 @@ fichero en C:\compartido\ficheros_emule_info\pending_emule_2.md
 
 ## cine y series
 
-- [ ] suburbicon
-- [ ] Stranger Things
-- [ ] Halt and cath fire
+- [ ] Bron broen el puente .......... T4
+- [ ]  
 
 ## musica
 
@@ -22,29 +21,17 @@ fichero en C:\compartido\ficheros_emule_info\pending_emule_2.md
 
 ## literatura
 
-- [ ] Andrea Camilleri                  Un nido de viboras
-
-- [ ] Andrea Camilleri                  La piramide de fango
-
-	 [ ] Elisabet Benavent		Este Cuaderno es para mil
-
-	 [ ] S. S. Van Dine 	                 El caso del asesinato de Benson, de la canario
-
-- [ ] Vladimir Hernandez              Habana requien y mas libros
-
-- [ ] Kike Ferrari                             Que de lejos parecen moscas
-
-- [ ] Manel de Pedrolo
+- [ ] Andrea Camilleri                  La moneda de Akragas
 
 - [ ] Daniel Vaquez Salles            Lena
-
-- [ ] Andreu martin                      El haren del tibidabo
 
 - [ ] Paul Preston                          La guerra civil española en comic
 
 - [ ] Jaime Oliver                          5 ingredientes. Comidas rapidas y faciles
 
 - [ ] Marc Ribas                            Brutal les receptes de marc ribas
+
+- [ ] Eva garcia Saenz de urrutia Los señores del tiempo
 
    ​
 
@@ -59,5 +46,5 @@ fichero en C:\compartido\ficheros_emule_info\pending_emule_2.md
 
 __________________
 
-[]: 
+
 
