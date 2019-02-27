@@ -45,6 +45,7 @@ last rev: 180410
 #### Otras web
 
 - [Outlook mail][web5]
+- [manuales lidl][web6] 
 
 [ir pagina principal](Listado_de_documentos.html)
 
@@ -65,4 +66,8 @@ last rev: 180410
 [web3]: https://es.wikipedia.org/wiki/Wikipedia:Portada	"wikipedia es "
 [web4]: https://www.casadellibro.com	"Casa del libro"
 [web5]: https://login.live.com/	"Outlook mail"
+
+[ web6 ]: https://www.lidl-service.com/  " Manuales Lidl "
+
+
 

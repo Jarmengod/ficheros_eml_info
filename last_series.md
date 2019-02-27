@@ -11,7 +11,7 @@ last rev: 180725
 | Serie                 | Temp  | total epis | Episo bajados |
 | --------------------- | ----- | ---------- | ------------- |
 | El joven seldon       | 1     | 18         | 15            |
-| The Big bang T        | 11    | 24         | 18            |
+| The Big bang T        | 11    | 24         | 24//24        |
 | black mirror          |       |            | variados      |
 | Narcos                | 3     | 10         | 10            |
 | Jessica Jones         | 1     | 13         | 13            |
@@ -19,10 +19,10 @@ last rev: 180725
 | Cormoran Strike       | 1/2/3 | 3/2/2      | 3/2/2         |
 | La casa de Papel      | 1     | 15         | 15            |
 | La era de los tanques | 1     | 4          | 4             |
-| bron broen el puente  | 2/3   | 10/10      | 10/10         |
-|                       |       |            |               |
-|                       |       |            |               |
-|                       |       |            |               |
+| bron broen el puente  | 2/3   | 10         | 10/10         |
+| Jack Ryan Tom clancy  | 1     | 8          | 8/2           |
+| Elementary            | 6     | 24         | 20            |
+| The bron (el puente)  | 4     | 8          | 8             |
 |                       |       |            |               |
 
 [ir pagina principal][pagina_principal]

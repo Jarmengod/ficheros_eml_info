@@ -4,13 +4,59 @@
 
 Fichero en C:\compartido\ficheros_emule_info\info_pc.md
 
-last rev: 180329
+last rev: 180815
 
 [ir pagina principal](Listado_de_documentos.html)
 
 Indice
 
 [TOC]
+
+#### Instrucciones interesantes
+
+##### Copia salvaje (para grandes cantidades de bytes)
+
+```
+ROBOCOPY c:\origen  f:\destino
+```
+
+
+
+##### Hacer un mirror 
+
+Para hacer un backup de 10-literatura a hdd
+
+```
+ROBOCOPY c:\origen  f:\destino /MIR
+```
+
+##### Mover ficheros  
+
+copia y borrar del origen 
+
+```
+ROBOCOPY  c:\origen  f:\destino /MOV
+```
+
+
+
+##### Listado de ficheros incluyendo subdirectorio
+
+ponerse en el directorio que interesa y 
+
+```
+tree /a /f >nombre.fichero.destino.txt
+```
+
+
+
+##### Listar fichero con cierta caracteristica de un  directorio 
+
+ejemplo los epub de emule root
+
+```
+dir *.epub /o:n /w
+```
 
 
 

@@ -4,7 +4,7 @@ Basicamente un listado de autores de mi biblioteca de epub
 
 Fichero en C:\compartido\ficheros_emule_info\mis_ebook_novela_negra.md
 
-*last rev: 180725
+*last rev: 180815
 
 [ir pagina principal](Listado_de_documentos.html)
 
@@ -30,6 +30,8 @@ Listado general de la biblioteca
 
 - van_dine_s_s ...............................Philo Vance
 
+- stout_rex......................................Nero Wolfe
+
   ​			[arriba ](#header-n0)
 
   #### Modernos
@@ -48,11 +50,10 @@ Listado general de la biblioteca
 
   - fernandez_diaz_jorge      
 
-    
+
 
     [arriba ](#header-n0)
 
-    
 
 ## Negra
 
@@ -77,6 +78,8 @@ Listado general de la biblioteca
   - macdonald_ross.................Lew Archer
 
   - mccoy_horace
+
+  - mosley_walter...................Easy Rawlins
 
        [arriba ](#header-n0)
 
@@ -111,7 +114,6 @@ Listado general de la biblioteca
 
     [arriba ](#header-n0)
 
-    
 
 ### Europeos
 
@@ -153,7 +155,6 @@ Listado general de la biblioteca
 
     [arriba ](#header-n0)
 
-    
 
   #### Nordicos  
 
@@ -199,7 +200,7 @@ Listado general de la biblioteca
 - dazieri_sandrone  
 - zilahy_mirko...................Enrico Mancini
 
-			
+	​		
 
   #### Otros europeos
 
@@ -239,7 +240,6 @@ Listado general de la biblioteca
 
   [arriba ](#header-n0)
 
-  
 
 ## Thriller
 
